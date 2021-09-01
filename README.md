@@ -1,5 +1,5 @@
 # Searching Tweets Using Twitter API
-Project developed during the production of the web tutorial "Searching Tweets Using Twitter API" avaliable on[my dev.to profile](https://dev.to/lisandramelo/).
+Project developed during the production of the web tutorial "Searching Tweets Using Twitter API" avaliable on [my dev.to profile](https://dev.to/lisandramelo/).
 
 # Instrução de execução do programa
 
